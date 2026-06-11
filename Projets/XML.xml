@@ -1,0 +1,12 @@
+<voitures>
+    <voiture>
+        <marque>Lamborghini</marque>
+        <couleur>Jaune</couleur>
+        <vitesse>320 km/h</vitesse>
+    </voiture>
+    <voiture>
+        <marque>Ferrari</marque>
+        <couleur>Rouge</couleur>
+        <vitesse>350 km/h</vitesse>
+    </voiture>
+</voitures>>   >
