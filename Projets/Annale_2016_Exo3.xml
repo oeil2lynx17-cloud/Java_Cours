@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE mesures SYSTEM "mesures.dtd">
+<mesures nature="températures">
+    <mesure date="2015/11/01">21.7</mesure>
+    <mesure date="2015/11/02">18.7</mesure>
+    <mesure date="2015/11/03">19.4</mesure>
+</mesures>
